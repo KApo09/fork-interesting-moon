@@ -31,7 +31,7 @@ sections:
         actions_align: left
         actions_width: full-width
       - title: Gold
-        subtitle: Optional subtitle
+        subtitle: Premium
         title_align: left
         content: |
           ***
