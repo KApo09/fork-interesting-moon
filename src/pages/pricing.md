@@ -53,7 +53,7 @@ sections:
         actions_align: left
         actions_width: full-width
       - title: Platinum
-        subtitle: Optional subtitle
+        subtitle: All-inklusive
         title_align: left
         content: |-
           ---
