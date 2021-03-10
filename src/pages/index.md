@@ -61,7 +61,7 @@ sections:
         media_position: right
         media_width: sixty
       - title: Hausgeräte Rundum
-        subtitle: 'Product updates, inventory and pricing.'
+        subtitle: 'Maschinen, die das Leben leichter machen'
         content: |
           Entdecken Sie Trends und Neuheiten in der Welt der Hausgeräte
         actions:
