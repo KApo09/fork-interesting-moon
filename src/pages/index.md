@@ -98,12 +98,10 @@ sections:
     title: Referenezen
     subtitle: Was unsere Kunden über uns denken
     grid_items:
-      - content: >-
-          Alyvia is an amazing content writer. She helped us produce microcopy
-          for our apps in all levels of user touchpoints.
+      - content: |
+          Wir waren super zufrieden und würden jedem den Service empfehlen!
 
-
-          **Hanson Deck,** *App Developer, Studio*
+          **Max Mustermann,** *32*
         image: images/person_round.png
         image_position: left
         image_width: twenty-five
