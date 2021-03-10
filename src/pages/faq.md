@@ -51,11 +51,13 @@ sections:
           reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla
           pariatur.
       - title: Who handles the design?
-        content: >-
-          You can choose to provide the design yourself, or I can include a
-          design element to your proposal. I work with several wonderful
-          designers with ample experience in web, digital, campaign and
-          marketing design.
+        content: >
+          Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do
+          eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad
+          minim veniam, quis nostrud exercitation ullamco laboris nisi ut
+          aliquip ex ea commodo consequat. Duis aute irure dolor in
+          reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla
+          pariatur.
     grid_cols: two
     grid_gap_horiz: medium
     grid_gap_vert: medium
