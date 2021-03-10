@@ -65,7 +65,7 @@ sections:
         content: |
           Entdecken Sie Trends und Neuheiten in der Welt der Hausgeräte
         actions:
-          - label: Learn More
+          - label: Mehr
             url: /about
             style: secondary
             has_icon: true
