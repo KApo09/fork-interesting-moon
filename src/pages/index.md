@@ -127,7 +127,7 @@ sections:
 
 
           **Eleanor Carr,** *CTO, eCommerce Business*
-        image: images/eleanor-carr.png
+        image: images/person_round.png
         image_position: left
         image_width: twenty-five
       - content: >-
