@@ -50,7 +50,7 @@ sections:
           Wir beraten Sie umfassend zu allen Themen rundum die
           Elektroinstallation
         actions:
-          - label: See Writing Samples
+          - label: Beispiele
             url: /faq
             style: primary
             has_icon: true
