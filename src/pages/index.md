@@ -105,12 +105,10 @@ sections:
         image: images/person_round.png
         image_position: left
         image_width: twenty-five
-      - content: >-
-          Alyvia really understands who our customers are and what tone of voice
-          to use when communicating with them.
+      - content: |
+          Wir waren super zufrieden und würden jedem den Service empfehlen!
 
-
-          **Miles Tone,** *CEO, Studio*
+          **Max Mustermann,** *32*
         image: images/magical-owl.png
         image_position: left
         image_width: twenty-five
