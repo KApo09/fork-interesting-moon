@@ -37,9 +37,6 @@ sections:
       - image: images/gagenau_2.png
         image_alt: Logo 3
         image_align: center
-      - image: images/logo-6.svg
-        image_alt: Logo 6
-        image_align: center
     grid_cols: four
     grid_gap_horiz: medium
     grid_gap_vert: medium
