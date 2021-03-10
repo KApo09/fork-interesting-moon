@@ -79,10 +79,9 @@ sections:
         media_width: sixty
       - title: E-CHECK
         subtitle: 'Your products and services, at scale.'
-        content: >-
-          I will dive into the ins and outs of your product or service and make
-          sure the right information is communicated throughout your
-          documentation, pamphlets, manuals and technical documents.
+        content: >
+          Der E-CHECK ist das anerkannte Prüfsiegel für elektrische
+          Installationen.
         actions:
           - label: See Past Work
             url: /faq
