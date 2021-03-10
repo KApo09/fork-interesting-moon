@@ -76,7 +76,7 @@ sections:
         media_position: right
         media_width: sixty
       - title: E-CHECK
-        subtitle: 'Your products and services, at scale.'
+        subtitle: Prüfsiegel
         content: >
           Der E-CHECK ist das anerkannte Prüfsiegel für elektrische
           Installationen.
