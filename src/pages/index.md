@@ -25,7 +25,7 @@ sections:
     background_image_opacity: 8
   - type: grid_section
     title: Unsere zufriedenen Kunden
-    subtitle: Unsere Referenzen
+    subtitle: Unsere Partner
     align: center
     grid_items:
       - image: images/logo-1.svg
