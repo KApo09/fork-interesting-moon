@@ -19,11 +19,13 @@ sections:
           reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla
           pariatur.
       - title: Can you manage our social media?
-        content: >-
-          Of course! I am happy to manage Twitter, LinkedIn, Instagram, Facebook
-          and any other social media platform you wish to maintain. This
-          includes both posting relevant and interesting content, and replying
-          to questions and comments from your audience.
+        content: >
+          Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do
+          eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad
+          minim veniam, quis nostrud exercitation ullamco laboris nisi ut
+          aliquip ex ea commodo consequat. Duis aute irure dolor in
+          reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla
+          pariatur.
       - title: How do you base your pricing?
         content: >-
           Depending on the scope and timeline of your content needs, we can work
