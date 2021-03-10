@@ -81,7 +81,7 @@ sections:
           Der E-CHECK ist das anerkannte Prüfsiegel für elektrische
           Installationen.
         actions:
-          - label: See Past Work
+          - label: Mehr
             url: /faq
             style: primary
             has_icon: true
