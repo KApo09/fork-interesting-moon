@@ -136,7 +136,7 @@ sections:
 
 
           **Gordon Norman,** *Web Designer, Local Business*
-        image: images/gordon-norman.png
+        image: images/person_round.png
         image_position: left
         image_width: twenty-five
     grid_cols: two
