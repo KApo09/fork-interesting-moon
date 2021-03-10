@@ -1,5 +1,5 @@
 ---
-title: Privacy Policy
+title: Datenschutz
 seo:
   title: Privacy Policy
   description: This is the privacy policy page
