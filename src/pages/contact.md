@@ -51,7 +51,7 @@ sections:
         name: consent
         label: Ich stimme den Datenschutzbestimmungen zu.
         is_required: true
-    submit_label: Send Message
+    submit_label: Senden
     align_vert: top
     padding_top: medium
     padding_bottom: medium
