@@ -35,11 +35,13 @@ sections:
           reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla
           pariatur.
       - title: What if my business is technical?
-        content: >-
-          No product or service is too technical to learn and understand. Part
-          of our initial onboarding is an in-depth understanding of your
-          offerings, your target audience and your level of technical writing
-          needed.
+        content: >
+          Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do
+          eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad
+          minim veniam, quis nostrud exercitation ullamco laboris nisi ut
+          aliquip ex ea commodo consequat. Duis aute irure dolor in
+          reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla
+          pariatur.
       - title: How fast can we get started?
         content: >-
           The onboarding process typically lasts 3-4 days and consists of an
