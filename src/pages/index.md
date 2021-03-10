@@ -119,12 +119,10 @@ sections:
         image: images/person_round.png
         image_position: left
         image_width: twenty-five
-      - content: >-
-          I love it when a content writer can really wordsmith and create copy
-          that suits the design intention and style!
+      - content: |
+          Wir waren super zufrieden und würden jedem den Service empfehlen!
 
-
-          **Gordon Norman,** *Web Designer, Local Business*
+          **Max Mustermann,** *32*
         image: images/person_round.png
         image_position: left
         image_width: twenty-five
