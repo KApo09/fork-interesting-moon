@@ -112,13 +112,10 @@ sections:
         image: images/magical-owl.png
         image_position: left
         image_width: twenty-five
-      - content: >-
-          Working with Alyvia was great because she was well versed in all of
-          our tools and applications, and was able to manage our store and
-          campaigns without any technical glitches.
+      - content: |
+          Wir waren super zufrieden und würden jedem den Service empfehlen!
 
-
-          **Eleanor Carr,** *CTO, eCommerce Business*
+          **Max Mustermann,** *32*
         image: images/person_round.png
         image_position: left
         image_width: twenty-five
