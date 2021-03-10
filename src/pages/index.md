@@ -108,7 +108,7 @@ sections:
 
 
           **Hanson Deck,** *App Developer, Studio*
-        image: images/person.png
+        image: images/person_round.png
         image_position: left
         image_width: twenty-five
       - content: >-
