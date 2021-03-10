@@ -4,9 +4,9 @@ sections:
   - type: hero_section
     title: Als Elektro-Profi garantieren wir Ihnen beste Qualität.
     subtitle: >-
-      Fachkompetente individuelle Beratung und Durchführung Zuverlässige
-      Umsetzung der geplanten ArbeitenFaires
-      Preis-Leistungs-VerhältnisTermingenaue Ausführung
+      Fachkompetente individuelle Beratung und Durchführung, Zuverlässige
+      Umsetzung der geplanten Arbeiten, Faires Preis-Leistungs-Verhältnis und
+      Termingenaue Ausführung
     actions:
       - label: Contact Me
         url: /contact
