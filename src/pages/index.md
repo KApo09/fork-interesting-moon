@@ -95,7 +95,7 @@ sections:
     align: center
     background_color: none
   - type: grid_section
-    title: Referenezen
+    title: Referenzen
     subtitle: Was unsere Kunden über uns denken
     grid_items:
       - content: |
