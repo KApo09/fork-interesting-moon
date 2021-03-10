@@ -31,7 +31,7 @@ sections:
       - image: images/bosch.png
         image_alt: Logo 1
         image_align: center
-      - image: images/logo-2.svg
+      - image: images/Miele_Logo_M_Red_sRGB.png
         image_alt: Logo 2
         image_align: center
       - image: images/logo-3.svg
