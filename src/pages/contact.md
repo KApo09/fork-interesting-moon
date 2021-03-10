@@ -3,7 +3,7 @@ title: Contact
 sections:
   - type: hero_section
     title: Kontakt aufnehmen
-    subtitle: Fill out the form below and I will get in touch within 1 business day.
+    subtitle: Ausfüllen und wir kommen zeitnah auf Sie zu
     align: center
     padding_top: medium
     padding_bottom: medium
