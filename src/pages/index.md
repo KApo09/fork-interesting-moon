@@ -34,7 +34,7 @@ sections:
       - image: images/Miele_Logo_M_Red_sRGB.png
         image_alt: Logo 2
         image_align: center
-      - image: images/siemens.jpg
+      - image: images/siemens_2.png
         image_alt: Logo 3
         image_align: center
     grid_cols: four
