@@ -2,7 +2,7 @@
 title: FAQ
 sections:
   - type: hero_section
-    title: Frequently Asked Questions
+    title: Häufige Fragen
     subtitle: My answers
     align: center
     padding_top: medium
