@@ -7,7 +7,7 @@ sections:
       Vielen Dank für Ihre Anfrage. Wir werden zeitnah mit Ihnen Kontakt
       aufnehmen.
     actions:
-      - label: Back to ho
+      - label: Home
         url: /
         style: primary
         has_icon: true
