@@ -45,7 +45,7 @@ sections:
     subtitle: Was wir anbieten
     features:
       - title: Elektrotechnik Rundum
-        subtitle: 'Website, blog, social media and more.'
+        subtitle: Beratung und Umsetzung
         content: >
           Wir beraten Sie umfassend zu allen Themen rundum die
           Elektroinstallation
