@@ -4,8 +4,9 @@ sections:
   - type: hero_section
     title: Als Elektro-Profi garantieren wir Ihnen beste Qualität.
     subtitle: >-
-      I will handle your website design and production, social media accounts
-      and digital advertisements for you, at an affordable price.
+      Fachkompetente individuelle Beratung und DurchführungZuverlässige
+      Umsetzung der geplanten ArbeitenFaires
+      Preis-Leistungs-VerhältnisTermingenaue Ausführung
     actions:
       - label: Contact Me
         url: /contact
