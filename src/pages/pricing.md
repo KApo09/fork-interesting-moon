@@ -55,18 +55,18 @@ sections:
       - title: Platinum
         subtitle: All-inklusive
         title_align: left
-        content: |-
-          ---
+        content: |
+          ***
 
-          ### $39
+          ### 39 €
 
-          per month, billed yearly
+          pro Monat
 
-          * Et semper leo mattis orci conubia congue
-          * Quisque eleifend imperdiet tortor
-          * Elementum eu rhoncus, volutpat
-          * Nisi cubilia interdum ultricies
-          * Feugiat porta tortor
+          *   Et semper leo mattis orci conubia congue
+          *   Quisque eleifend imperdiet tortor
+          *   Elementum eu rhoncus, volutpat
+          *   Nisi cubilia interdum ultricies
+          *   Feugiat porta tortor
         content_align: left
         actions:
           - label: Start with Business
