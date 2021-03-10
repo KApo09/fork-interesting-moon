@@ -10,7 +10,7 @@ sections:
   - type: grid_section
     grid_items:
       - title: Silver
-        subtitle: Optional subtitle
+        subtitle: Basis
         title_align: left
         content: |
           ***
