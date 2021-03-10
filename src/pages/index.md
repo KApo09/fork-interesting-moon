@@ -44,7 +44,7 @@ sections:
     title: Unsere Services
     subtitle: Was wir anbieten
     features:
-      - title: Content Creation
+      - title: Elektrotechnik Rundum
         subtitle: 'Website, blog, social media and more.'
         content: >-
           I will handle content writing for your digital assets, from
