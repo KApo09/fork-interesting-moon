@@ -166,9 +166,7 @@ sections:
         default_value: Ihre Nachricht
       - input_type: checkbox
         name: consent
-        label: >-
-          I understand that this form is storing my submitted information so I
-          can be contacted.
+        label: Einverstanden mit Datenschutzvereinbarung.
         is_required: true
     submit_label: Send Message
     align_vert: top
