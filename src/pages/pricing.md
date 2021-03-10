@@ -3,7 +3,7 @@ title: Pricing
 sections:
   - type: hero_section
     title: Preise
-    subtitle: Optional hero section subtitle
+    subtitle: Unsere Modelle
     align: center
     padding_top: large
     padding_bottom: small
