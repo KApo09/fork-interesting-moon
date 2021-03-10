@@ -8,7 +8,7 @@ sections:
       Umsetzung der geplanten Arbeiten, Faires Preis-Leistungs-Verhältnis und
       Termingenaue Ausführung
     actions:
-      - label: Contact Me
+      - label: Kontakt
         url: /contact
         style: primary
     image: images/csm_Fahrzeug_fb034b2668.jpg
