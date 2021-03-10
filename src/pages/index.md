@@ -136,12 +136,12 @@ sections:
     background_image_size: contain
     background_image_opacity: 12
   - type: form_section
-    content: >-
-      ## Let's talk
+    content: |
+      ## Kontakt aufnehmen
 
+      Einfach anrufen via 11111111111
 
-      If you would like more information about my services and pricing, please
-      contact me using the form below.
+      oder hier unsere Kontaktformular nutzen
     content_align: left
     form_position: right
     form_width: fifty
