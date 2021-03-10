@@ -34,7 +34,7 @@ sections:
       - image: images/Miele_Logo_M_Red_sRGB.png
         image_alt: Logo 2
         image_align: center
-      - image: images/gagenau.png
+      - image: images/gagenau_2.png
         image_alt: Logo 3
         image_align: center
       - image: images/gagenau_2.png
