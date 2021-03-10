@@ -62,10 +62,8 @@ sections:
         media_width: sixty
       - title: Hausgeräte Rundum
         subtitle: 'Product updates, inventory and pricing.'
-        content: >-
-          Managing an online business is a full-time job. I will make sure your
-          products look great, sound great, and sell more on your choice of
-          ecommerce platform.
+        content: |
+          Entdecken Sie Trends und Neuheiten in der Welt der Hausgeräte
         actions:
           - label: Learn More
             url: /about
