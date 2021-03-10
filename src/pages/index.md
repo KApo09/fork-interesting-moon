@@ -100,7 +100,7 @@ sections:
     background_color: none
   - type: grid_section
     title: Referenezen
-    subtitle: What My Clients Say
+    subtitle: Was unsere Kunden über uns denken
     grid_items:
       - content: >-
           Alyvia is an amazing content writer. She helped us produce microcopy
