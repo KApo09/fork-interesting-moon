@@ -7,7 +7,7 @@ sections:
       - label: Kontakt
         url: /contact
         style: primary
-    image: images/gruen-teck-truck.jpeg
+    image: images/benjamin-combs-wuU_SSxDeS0-unsplash.jpg
     image_alt: A smiling woman
     media_position: right
     media_width: fifty
