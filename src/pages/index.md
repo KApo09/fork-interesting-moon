@@ -2,7 +2,7 @@
 title: Home
 sections:
   - type: hero_section
-    title: Garten- und Landschaftsbau vom Profi
+    title: Tunger Exklusiv
     subtitle: >-
       Pflegen und Gestalten von Grünanlagen, Spielplätzen und Gärten sind die
       Stärken der Grün-Teck GmbH Garten- und Landschaftsbau in Kirchheim.
