@@ -69,7 +69,7 @@ sections:
             has_icon: true
             icon: arrow-right
             icon_position: right
-        image: images/Logo_kaisser.jpeg
+        image: images/jasmin-schreiber-hpVRzFfL2z8-unsplash.jpg
         image_alt: Feature 3 illustration
         media_position: right
         media_width: sixty
