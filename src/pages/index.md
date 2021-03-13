@@ -30,9 +30,7 @@ sections:
     features:
       - title: Garten Pflegearbeiten
         subtitle: Beratung und Umsetzung
-        content: >
-          Wir beraten Sie umfassend zu allen Themen rundum die
-          Elektroinstallation
+        content: "Nur so haben Sie lange Freude daran. Unser kompetentes Team übernimmt gerne sämtliche Pflegearbeiten Ihrer Grünanlage. Ob Privatgärten, Flächen in öffentlicher Hand, Firmengrundstücke oder begrünte Dächer - mit Grün-Teck haben Sie den richtigen Partner zur Seite.\_\n"
         actions:
           - label: Beispiele
             url: /faq
