@@ -12,7 +12,7 @@ sections:
       - label: Kontakt
         url: /contact
         style: primary
-    image: images/csm_Fahrzeug_fb034b2668.jpg
+    image: images/gruen-teck-truck.jpeg
     image_alt: A smiling woman
     media_position: right
     media_width: fifty
