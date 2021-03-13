@@ -20,6 +20,14 @@ sections:
     background_image_size: contain
     background_image_opacity: 8
     subtitle: Dienstleistungen rund um den Grünen Bereich
+    content: >
+
+      Wir sind gerne Ihr kompetenter Partner in allen Angelegenheiten rund um
+      den Grünen Bereich.
+
+
+      Bei uns sind alle Leistungen individuell auf Ihre Wünsche und Ihren Garten
+      abgestimmt.
   - type: features_section
     title: Unsere Services
     subtitle: Garten- und Landschaftsbauarbeiten
