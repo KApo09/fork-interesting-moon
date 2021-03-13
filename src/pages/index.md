@@ -43,7 +43,7 @@ sections:
         image_alt: Feature 1 illustration
         media_position: right
         media_width: sixty
-      - title: Pflasterarbeiten
+      - title: Baumpflege
         subtitle: Hohe Materialqualität und die richtige Technik
         content: >
           Wir pflastern Ihren Hof, Garageneinfahrt, Terrasse oder
