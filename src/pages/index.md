@@ -25,7 +25,7 @@ sections:
     background_image_size: contain
     background_image_opacity: 8
   - type: grid_section
-    title: 'Firmen, denen wir vertrauen'
+    title: Beratung und Planung
     subtitle: Unsere Partner
     align: center
     grid_items:
