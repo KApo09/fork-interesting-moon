@@ -55,6 +55,7 @@ sections:
         image_align: left
         image_has_padding: false
         type: grid_item
+        image: images/curious-primrose.jpeg
     grid_cols: two
     grid_gap_horiz: medium
     grid_gap_vert: medium
