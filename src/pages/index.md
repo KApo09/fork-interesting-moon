@@ -65,8 +65,9 @@ sections:
       - title: Winterdienst
         subtitle: Wir sind Ihr Fachmann für Winterdienste.
         content: >
-          Der E-CHECK ist das anerkannte Prüfsiegel für elektrische
-          Installationen.
+          Unsere Auftraggeber sind in der Regel Kommunen, Hausverwaltungen,
+          Wohnbaugesellschaften, Unternehmen oder Privatpersonen. Wir erledigen
+          die Schneeräumarbeiten schnell und zuverlässig.
         actions:
           - label: Mehr
             url: /faq
