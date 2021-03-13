@@ -31,7 +31,7 @@ sections:
       - image: images/gruen-teck-beratung_planung-X47JQZ-L-182.jpeg
         image_alt: Logo 2
         image_align: center
-    grid_cols: four
+    grid_cols: two
     grid_gap_horiz: medium
     grid_gap_vert: medium
   - type: features_section
