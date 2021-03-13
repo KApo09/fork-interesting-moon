@@ -29,7 +29,9 @@ sections:
     features:
       - title: Garten Pflegearbeiten
         subtitle: Schöne Grünflächen und Gärten wollen gepflegt werden.
-        content: "Nur so haben Sie lange Freude daran. Unser kompetentes Team übernimmt gerne sämtliche Pflegearbeiten Ihrer Grünanlage. Ob Privatgärten, Flächen in öffentlicher Hand, Firmengrundstücke oder begrünte Dächer - mit Grün-Teck haben Sie den richtigen Partner zur Seite.\_\n"
+        content: >
+          Nur so haben Sie lange Freude daran. Unser kompetentes Team übernimmt
+          gerne sämtliche Pflegearbeiten Ihrer Grünanlage. 
         actions:
           - label: Beispiele
             url: /faq
