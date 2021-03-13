@@ -44,7 +44,7 @@ sections:
         media_position: right
         media_width: sixty
       - title: Baumpflege
-        subtitle: Hohe Materialqualität und die richtige Technik
+        subtitle: Schnitte für
         content: >
           Wir pflastern Ihren Hof, Garageneinfahrt, Terrasse oder
           Betriebsgelände in bewährter Qualität und beraten Sie gerne zu den
