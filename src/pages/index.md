@@ -45,7 +45,7 @@ sections:
     title: Unsere Services
     subtitle: Was wir anbieten
     features:
-      - title: Elektrotechnik Rundum
+      - title: Pflegearbeiten
         subtitle: Beratung und Umsetzung
         content: >
           Wir beraten Sie umfassend zu allen Themen rundum die
