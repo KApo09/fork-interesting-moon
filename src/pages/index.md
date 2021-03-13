@@ -45,7 +45,7 @@ sections:
     title: Unsere Services
     subtitle: Was wir anbieten
     features:
-      - title: Pflegearbeiten
+      - title: Garten Pflegearbeiten
         subtitle: Beratung und Umsetzung
         content: >
           Wir beraten Sie umfassend zu allen Themen rundum die
