@@ -26,7 +26,7 @@ sections:
     background_image_opacity: 8
   - type: grid_section
     title: Beratung und Planung
-    subtitle: Unsere Partner
+    subtitle: '-'
     align: center
     grid_items:
       - image: images/bosch.png
