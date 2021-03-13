@@ -44,8 +44,13 @@ sections:
         media_width: sixty
       - title: Pflasterarbeiten
         subtitle: Hohe Materialqualität und die richtige Technik
-        content: |
-          Entdecken Sie Trends und Neuheiten in der Welt der Hausgeräte
+        content: >
+          Wir pflastern Ihren Hof, Garageneinfahrt, Terrasse oder
+          Betriebsgelände in bewährter Qualität und beraten Sie gerne zu den
+          verschiedenen Möglichkeiten. Beständigkeit und lange Freude am
+          Ergebnis ist unser Anspruch.
+
+          Wir freuen uns auf Ihre Anfrage!
         actions:
           - label: Mehr
             url: /about
