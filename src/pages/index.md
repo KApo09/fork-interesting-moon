@@ -31,8 +31,7 @@ sections:
       - image: images/gruen-teck-beratung_planung-X47JQZ-L-182.jpeg
         image_alt: Logo 2
         image_align: center
-      - title: lorem-ipsum
-        subtitle: lorem-ipsum
+      - subtitle: lorem-ipsum
         title_align: left
         content: >-
           ## Lorem ipsum
