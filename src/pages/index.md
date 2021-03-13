@@ -3,11 +3,6 @@ title: Home
 sections:
   - type: hero_section
     title: Uwe Kaißer - Dienstleistungen rund um den Grünen Bereich
-    subtitle: >-
-      Pflegen und Gestalten von Grünanlagen, Spielplätzen und Gärten sind die
-      Stärken der Grün-Teck GmbH Garten- und Landschaftsbau in Kirchheim.
-      Sorgfältige Arbeit und zufriedene Kunden sind bei jedem Auftrag unser
-      Anspruch.
     actions:
       - label: Kontakt
         url: /contact
