@@ -63,7 +63,7 @@ sections:
         media_position: right
         media_width: sixty
       - title: Winterdienst
-        subtitle: Prüfsiegel
+        subtitle: Wir sind Ihr Fachmann für Winterdienste.
         content: >
           Der E-CHECK ist das anerkannte Prüfsiegel für elektrische
           Installationen.
