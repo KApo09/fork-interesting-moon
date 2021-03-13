@@ -48,7 +48,7 @@ sections:
     grid_gap_vert: medium
   - type: features_section
     title: Unsere Services
-    subtitle: Was wir anbieten
+    subtitle: Garten- und Landschaftsbauarbeiten
     features:
       - title: Garten Pflegearbeiten
         subtitle: Beratung und Umsetzung
