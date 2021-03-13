@@ -61,7 +61,7 @@ sections:
         image_alt: Feature 1 illustration
         media_position: right
         media_width: sixty
-      - title: Hausgeräte Rundum
+      - title: Pflasterarbeiten
         subtitle: 'Maschinen, die das Leben leichter machen'
         content: |
           Entdecken Sie Trends und Neuheiten in der Welt der Hausgeräte
