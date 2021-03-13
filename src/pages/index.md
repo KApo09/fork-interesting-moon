@@ -58,7 +58,7 @@ sections:
         image_alt: Feature 2 illustration
         media_position: right
         media_width: sixty
-      - title: Winterdienst
+      - title: Neuanpflanzung
         subtitle: Wir sind Ihr Fachmann für Winterdienste.
         content: >
           Unsere Auftraggeber sind in der Regel Kommunen, Hausverwaltungen,
