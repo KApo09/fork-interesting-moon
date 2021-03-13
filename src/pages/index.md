@@ -59,7 +59,7 @@ sections:
         media_position: right
         media_width: sixty
       - title: Neuanpflanzung
-        subtitle: Wir sind Ihr Fachmann für Winterdienste.
+        subtitle: Neue Pflanzen und Bäume
         content: >
           Unsere Auftraggeber sind in der Regel Kommunen, Hausverwaltungen,
           Wohnbaugesellschaften, Unternehmen oder Privatpersonen. Wir erledigen
