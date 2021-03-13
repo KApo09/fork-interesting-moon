@@ -42,7 +42,7 @@ sections:
         image_align: left
         image_has_padding: false
         type: grid_item
-        image: images/GBO_web_01-768x486.jpeg
+        image: images/GBO_web_01.jpeg
     grid_cols: two
     grid_gap_horiz: medium
     grid_gap_vert: medium
