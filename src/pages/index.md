@@ -28,9 +28,6 @@ sections:
     title: Beratung und Planung
     align: center
     grid_items:
-      - image: images/bosch.png
-        image_alt: Logo 1
-        image_align: center
       - image: images/gruen-teck-beratung_planung-X47JQZ-L-182.jpeg
         image_alt: Logo 2
         image_align: center
