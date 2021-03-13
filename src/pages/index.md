@@ -60,10 +60,8 @@ sections:
         media_width: sixty
       - title: Neuanpflanzung
         subtitle: Neue Pflanzen und Bäume
-        content: >
-          Unsere Auftraggeber sind in der Regel Kommunen, Hausverwaltungen,
-          Wohnbaugesellschaften, Unternehmen oder Privatpersonen. Wir erledigen
-          die Schneeräumarbeiten schnell und zuverlässig.
+        content: |
+          Lorem Ipsum
         actions:
           - label: Mehr
             url: /faq
