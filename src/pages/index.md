@@ -7,8 +7,7 @@ sections:
       Pflegen und Gestalten von Grünanlagen, Spielplätzen und Gärten sind die
       Stärken der Grün-Teck GmbH Garten- und Landschaftsbau in Kirchheim.
       Sorgfältige Arbeit und zufriedene Kunden sind bei jedem Auftrag unser
-      Anspruch. Das engagierte Team um Suad Babahmetovic ist Ihr Ansprechpartner
-      für alle Arbeiten rund um den grünen Daumen.
+      Anspruch.
     actions:
       - label: Kontakt
         url: /contact
