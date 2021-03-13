@@ -24,28 +24,6 @@ sections:
     background_image_repeat: repeat
     background_image_size: contain
     background_image_opacity: 8
-  - type: grid_section
-    title: Beratung und Planung
-    align: center
-    grid_items:
-      - image: images/gruen-teck-beratung_planung-X47JQZ-L-182.jpeg
-        image_alt: Logo 2
-        image_align: center
-      - title_align: left
-        content_align: left
-        actions: []
-        actions_align: left
-        actions_width: auto
-        image_alt: lorem-ipsum
-        image_position: top
-        image_width: fifty
-        image_align: left
-        image_has_padding: false
-        type: grid_item
-        image: images/GBO_web_01.jpeg
-    grid_cols: two
-    grid_gap_horiz: medium
-    grid_gap_vert: medium
   - type: features_section
     title: Unsere Services
     subtitle: Garten- und Landschaftsbauarbeiten
@@ -100,6 +78,28 @@ sections:
     feature_padding_vert: large
     align: center
     background_color: none
+  - type: grid_section
+    title: Beratung und Planung
+    align: center
+    grid_items:
+      - image: images/gruen-teck-beratung_planung-X47JQZ-L-182.jpeg
+        image_alt: Logo 2
+        image_align: center
+      - title_align: left
+        content_align: left
+        actions: []
+        actions_align: left
+        actions_width: auto
+        image_alt: lorem-ipsum
+        image_position: top
+        image_width: fifty
+        image_align: left
+        image_has_padding: false
+        type: grid_item
+        image: images/GBO_web_01.jpeg
+    grid_cols: two
+    grid_gap_horiz: medium
+    grid_gap_vert: medium
   - type: grid_section
     title: Referenzen
     subtitle: Was unsere Kunden über uns denken
