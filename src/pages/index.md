@@ -44,7 +44,7 @@ sections:
         media_position: right
         media_width: sixty
       - title: Baumpflege
-        subtitle: Schnitte für
+        subtitle: Haarschnitt für Ihren Baum
         content: >
           Wir pflastern Ihren Hof, Garageneinfahrt, Terrasse oder
           Betriebsgelände in bewährter Qualität und beraten Sie gerne zu den
