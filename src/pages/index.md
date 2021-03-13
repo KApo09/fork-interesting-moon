@@ -43,7 +43,7 @@ sections:
         media_position: right
         media_width: sixty
       - title: Pflasterarbeiten
-        subtitle: 'Maschinen, die das Leben leichter machen'
+        subtitle: Hohe Materialqualität und die richtige Technik
         content: |
           Entdecken Sie Trends und Neuheiten in der Welt der Hausgeräte
         actions:
