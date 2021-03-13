@@ -2,7 +2,7 @@
 title: Home
 sections:
   - type: hero_section
-    title: Uwe Kaißer - Dienstleistungen rund um den Grünen Bereich
+    title: Uwe Kaißer
     actions:
       - label: Kontakt
         url: /contact
