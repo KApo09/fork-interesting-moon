@@ -2,7 +2,7 @@
 title: Home
 sections:
   - type: hero_section
-    title: Als Elektro-Profi garantieren wir Ihnen beste Qualität.
+    title: Garten- und Landschaftsbau vom Profi
     subtitle: >-
       Fachkompetente individuelle Beratung und Durchführung, Zuverlässige
       Umsetzung der geplanten Arbeiten, Faires Preis-Leistungs-Verhältnis und
