@@ -30,4 +30,4 @@ template: page
 ---
 ![A woman using a laptop](/images/about.jpg)
 
-Die Firma wurde 1959 von Martin Burkhardt gegründet. Im Jahre 1963 bezog die Firma ihren noch heute bestehenden Firmensitz. Zum 1. April 1994 übernahm Gerd Bückle das Unternehmen, das am Firmensitz ein Fachgeschäft und den Installationsbetrieb unterhält.
+Hier stellen wir Sie vor ...
