@@ -29,7 +29,7 @@ sections:
     subtitle: Garten- und Landschaftsbauarbeiten
     features:
       - title: Garten Pflegearbeiten
-        subtitle: Beratung und Umsetzung
+        subtitle: Schöne Grünflächen und Gärten wollen gepflegt werden.
         content: "Nur so haben Sie lange Freude daran. Unser kompetentes Team übernimmt gerne sämtliche Pflegearbeiten Ihrer Grünanlage. Ob Privatgärten, Flächen in öffentlicher Hand, Firmengrundstücke oder begrünte Dächer - mit Grün-Teck haben Sie den richtigen Partner zur Seite.\_\n"
         actions:
           - label: Beispiele
