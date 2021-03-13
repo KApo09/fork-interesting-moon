@@ -31,7 +31,7 @@ sections:
       - image: images/bosch.png
         image_alt: Logo 1
         image_align: center
-      - image: images/Miele_Logo_M_Red_sRGB.png
+      - image: images/gruen-teck-beratung_planung-X47JQZ-L-182.jpeg
         image_alt: Logo 2
         image_align: center
       - image: images/siemens_3.png
