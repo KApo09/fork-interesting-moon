@@ -76,7 +76,7 @@ sections:
         image_alt: Feature 2 illustration
         media_position: right
         media_width: sixty
-      - title: E-CHECK
+      - title: Winterdienst
         subtitle: Prüfsiegel
         content: >
           Der E-CHECK ist das anerkannte Prüfsiegel für elektrische
